@@ -1,0 +1,3 @@
+Computador;PAT001;Laboratorio
+Impressora;PAT002;Secretaria
+Projetor;PAT003;Sala 10
